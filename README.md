@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @russjohnhop
-- 👀 I’m interested in learning HTMTL, CSS and JS to have fully functional web development skills.
-- 🌱 I’m currently learning using The Odin Project, you can find many of my projects here.
+- 🌱 I’m currently learning using CS50P, a focus on Python
