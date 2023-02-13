@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @russjohnhop
-- 🌱 I’m currently learning using CS50P, a Harvard online course covering Python
+- 🌱 I’m currently learning using CS50W, a Harvard online course covering Web Programming with Python and JavaScript
