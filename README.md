@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @russjohnhop
-- 🌱 I’m currently learning using CS50W, a Harvard online course covering Web Programming with Python and JavaScript
+- 🌱 I am a developer that uses Python, JavaScript, React, Django, Flask, SQL and more to create many different projects.
